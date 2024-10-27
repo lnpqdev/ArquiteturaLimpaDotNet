@@ -1,4 +1,4 @@
-# Acesso a Dados com EF Core
+# Arquitetura Limpa ASP.NET CORE
 
 Bem-vindo ao repositório de **Arquitetura Limpa com ASP.NET Core**! Este repositório tem como objetivo demonstrar o uso de Arquitetura limpa no projeto .NET usando.Net 8.
 
